@@ -1,4 +1,4 @@
-### Laravelの勉強
+### Laravel5.6の勉強
 
 以下のURL(中級者向けタスクリストで勉強を進めた)
 https://readouble.com/laravel/5.1/ja/quickstart-intermediate.html
